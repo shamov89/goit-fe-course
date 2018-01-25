@@ -7,7 +7,7 @@ box-sizing: border-box;
 .list{
     width: 1920px;
     height: 2174px;
-    padding-top: 240px;
+    padding-top: 200px;
     background-size: 1920px 2174px;
     /* background-image: url(".//img/back3.jpg") */
     background-image: url("https://previews.123rf.com/images/learchitecto/learchitecto1506/learchitecto150600001/40869156-grass-tennis-court-and-stadium-full-of-spectators-with-spotlights-tennis-sport-theme-render-illustra-Stock-Photo.jpg")
@@ -76,11 +76,13 @@ box-sizing: border-box;
 
 .box2{
     margin-top: 10px;
-    margin-left: 20px;
+    margin-left: 50px;
     display: inline-block;
-    width: 220px;
+    width: 200px;
     vertical-align: top;
     text-align: left;
+    /* background-color: green; */
+    margin-bottom: 50px;
     
     
 }
@@ -90,6 +92,7 @@ box-sizing: border-box;
     width: 150px;
     vertical-align: top;
     text-align: left;
+    margin-left: 30px;
     
 }
 
