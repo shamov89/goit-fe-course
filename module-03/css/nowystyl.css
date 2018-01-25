@@ -1,0 +1,99 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+
+.list{
+    width: 1920px;
+    height: 2174px;
+    padding-top: 240px;
+    background-size: 1920px 2174px;
+    /* background-image: url(".//img/back3.jpg") */
+    background-image: url("https://previews.123rf.com/images/learchitecto/learchitecto1506/learchitecto150600001/40869156-grass-tennis-court-and-stadium-full-of-spectators-with-spotlights-tennis-sport-theme-render-illustra-Stock-Photo.jpg")
+    /* background-origin: border-box;
+    background-position: 50% 50%; */
+    
+    
+
+}
+
+.rama{
+    width: 480px;  
+    background-color: white;
+    margin: auto;
+    padding-top: 35px;
+
+}
+
+.zagolovok{
+    color: #263555;
+    font-size: 25px;
+    text-transform: uppercase;
+    font-family: 'Pathway Gothic One', sans-serif;
+    line-height: 19px;
+    padding-bottom: 30px;
+
+}
+
+.vstup{
+    color: #263555;
+    font-size: 14px; 
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 19px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.vstup2{    
+    color: #263555;
+    font-size: 14px; 
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 19px;
+    
+    padding-top: 15px;  
+}
+
+     
+
+.text{
+    color: #4e5050;
+    font-size: 12px; 
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 17px;
+    padding-bottom: 15px;
+}
+.box{
+    padding-top: 25px;
+    padding-bottom: 25px;
+    margin-left: 37px;
+    margin-right: 37px;
+}
+
+/* .pic{
+    max-width: 100%;
+} */
+
+.box2{
+    margin-top: 10px;
+    margin-left: 20px;
+    display: inline-block;
+    width: 220px;
+    vertical-align: top;
+    text-align: left;
+    
+    
+}
+
+.box3{
+    display: inline-block;
+    width: 150px;
+    vertical-align: top;
+    text-align: left;
+    
+}
+
+.box4{
+    height: 80px;
+
+}
